@@ -1,0 +1,78 @@
+body{
+	background-color: rgba(200,100,30,.7);
+	
+}
+#project{
+	display: flex;
+	justify-content: center;
+
+}
+#cover{
+	height: 90vh;
+	width: 450px;
+	background-color:#fff;
+	border-left: 1px solid ;
+	border-radius: 5px;
+	
+}
+#cover #my-book{
+
+}
+#cover #my-computerbook{
+	height: 80vh;
+	width: 400px;
+	background-color:rgb(100,190,40);
+	margin-top: 30px;
+
+}
+#cover #my-book #my-computerbook h1{
+	text-align: center;
+	font-family: Broadway;
+	text-transform: uppercase;
+	line-height: 0;
+	padding-top: 50px;
+	font-size: 50px;
+
+}
+#cover #my-book #my-computerbook h3{
+	font-family: ink free;
+	text-align: center;
+	line-height: 0;
+	font-size: 18px;
+	margin-left: 80px;
+}
+#cover #my-book #my-computerbook span{
+	color:rgb(200,10,50);
+}
+#my-computerbook #games{
+	text-align: center;
+	margin-top: 40%;
+	font-family:brittanic bold;
+	font-size: 20px;
+}
+#more-text {
+	line-height: 0;
+	text-align: center;
+	padding-top: 20px;
+	text-transform: uppercase;
+
+}
+.form{
+	margin-left: 60px;
+	padding-bottom: 5px;
+}
+input{
+	display: block;
+	width: 300px;
+}
+.footer{
+	background:rgb(0,80,200);
+	height: 8vh;
+	padding-top: 2px;
+}
+.footer h5{
+	text-align: right;
+	margin-right: 10px;
+
+}
+
